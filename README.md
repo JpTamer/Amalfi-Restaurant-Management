@@ -59,7 +59,9 @@ To learn more about customizing Tailwind, visit their [documentation](https://ta
 
 ## Deployment
 
-This project is deployed at: https://amalfi-lilac.vercel.app
+This project is deployed at: [https://amalfi-lilac.vercel.app](https://amalfi-lilac.vercel.app)
+
+> **Note on Live Demo:** The backend and database are hosted on a free tier. If the service has been inactive, it may experience a "cold start" resulting in a 30–50 second delay when initially fetching the menu or processing the first order. 
 
 To deploy your own version, you can use services like Vercel, Netlify, or any static hosting that supports Vite builds.
 
