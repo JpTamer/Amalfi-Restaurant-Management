@@ -1,14 +1,18 @@
-# Amalfi — Italian Restaurant React App
+# Amalfi — Full-Stack Restaurant Management 🍽️
 
-Welcome to Amalfi, a restaurant application built with React and Vite. Amalfi lets customers view a delicious Italian menu, add items to their cart, review and place orders, and track the progress of orders in real time.
+Welcome to Amalfi, a full-stack restaurant application built with React, Node.js, and PostgreSQL. Amalfi lets customers view a delicious Italian menu, add items to their cart, review and place orders, and track the progress of orders in real time.
 
-## Features
+### 🛠️ Tech Stack
+* **Front-End:** React, Vite, JavaScript (ES6+), Tailwind CSS
+* **Back-End / API:** Node.js, Express.js
+* **Database:** PostgreSQL
+* **Routing:** React Router
 
-- **Menu Display:** Browse a selection of Italian meals and drinks.
-- **Add to Cart:** Add favorite dishes to your shopping cart.
-- **Order Review:** Review selected items before placing an order.
-- **Place Order:** Submit an order for processing.
-- **Order Progress:** Monitor the status and progress of your placed order.
+### 🚀 Key Features
+* **Responsive UI:** Built with React and Tailwind to ensure a seamless experience across devices.
+* **RESTful APIs:** Custom endpoints developed with Express.js to handle menus, orders, and operational data.
+* **Database-Driven:** Robust PostgreSQL schema design for secure and efficient data management.
+* **Order Tracking:** Monitor the status and progress of placed orders in real-time.
 
 ## Getting Started
 
